@@ -1,0 +1,6 @@
+digraph G {
+rankdir=TB;
+node [shape=record];
+empleados [label="{empleados|id : SERIAL (Llave)\lnombre : VARCHAR100\lpuesto : VARCHAR50\lsalario : DECIMAL10,2\lfecha_contratacion : DATE\ldepartamento_id : INTEGER\lemail : VARCHAR100\l}"];
+empleados [label="{empleados|id : SERIAL (Llave)\lnombre : VARCHAR100\lpuesto : VARCHAR50\lsalario : DECIMAL10,2\lfecha_contratacion : DATE\ldepartamento_id : INTEGER\lemail : VARCHAR100\l}"];
+}
